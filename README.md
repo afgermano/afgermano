@@ -1,57 +1,52 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afgermano/afgermano/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afgermano/afgermano/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afgermano/afgermano/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">Hello World!!</h2>
 
 ###
 
-<h2 align="left">Welcome!! My name is Bia.</h2>
+<img src="https://raw.githubusercontent.com/afgermano/afgermano/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left">Sou formada em técnico em Desenvolvimento de Sistemas e atualmente estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">Me chamo Beatriz e atuo como estagiária em Ciências de Dados, atuando na alimentação e na organização de sistemas e bases de dados, auxiliando na elaboração de relatórios e dashboards, extraindo dados interinos e apoiando análises de indicadores.<br><br>Atualmente estou cursando o 2° semestre em Análise e Desenvolvimento de Sistemas e tenho foco na área de dados, especificamente como Ciêntista de Dados.</p>
 
 ###
 
-<h3 align="left">🎲 Objetivos</h3>
+<h3 align="left">🖥️ Techs</h3>
 
 ###
 
-<p align="left">Busco a especialização na área de Back-end, com foco em Java e Python e em engenharia de Inteligência Artificial.</p>
-
-###
-
-<h3 align="left">[🗃] Linguagens</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
 
-<h3 align="left">[📞] Contatos</h3>
+<h3 align="left">Social 🛸</h3>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ana-germano-881305239" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/bibilboque" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
-  </a>
-  <a href="ana.zgermano2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
-  </a>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
