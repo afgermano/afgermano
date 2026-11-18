@@ -6,9 +6,7 @@
 <p align="left"> 🇧🇷 </p>
 <p align="left"> Olá! Me chamo Ana Beatriz, mas pode me chamar de Bia. Estou no 3° semestre no curso de Análise e Desenvolvimento de Sistema na FATEC, minhas principais linguagens são Python e SQL, focando minhas energias no desenvolvimento Back-end e Banco de dados, atualmente sou estagiária na área de Inteligência de Dados, onde tenho contato direto com a criação de painéis no Power BI, o tratamento e aprimoramento de dados, além do desenvolvimento de sistemas de automação para processos internos. </p>
 
-###
-<br> 
-###
+<hr>
 
 ###
 
@@ -25,6 +23,8 @@
 
   <p><strong>Tools</strong></p>
   <p>Git • GitHub • VS Code</p>
+
+<hr>
 
 ###
 
@@ -50,7 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+
 ###
+
+<hr>
 
 <h3 align="left">Social 🛸</h3>
 
