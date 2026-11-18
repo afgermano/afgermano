@@ -1,4 +1,4 @@
-<h1 align="left">I'm Batman 🦇🦇 </h1>
+<h1 align="center">I'm Batman 🦇🦇 </h1>
 
 <p align="left"> 🇺🇸 </p>
 <p align="left"> Hello! My name is Ana Beatriz, but you can call me Bia. I am currently in my third semester of Systems Analysis and Development at FATEC. My main programming languages are Python and SQL, and I am focusing on Back-end Development and Databases, I am currently working as a Data Intelligence Intern, where I have hands-on experience creating dashboards in Power BI, processing and improving data, and developing automation systems for internal processes.</p>
