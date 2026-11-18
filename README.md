@@ -1,12 +1,10 @@
-<h2 align="left">Hello World!!</h2>
+<h5 align="left">I'm Batman 🦇🦇 </h5>
 
-###
+<p align="center"> 🇺🇸 </p>
+<p align="left"> Hello! My name is Ana Beatriz, but you can call me Bia. I am currently in my third semester of Systems Analysis and Development at FATEC. My main programming languages are Python and SQL, and I am focusing on Back-end Development and Databases, I am currently working as a Data Intelligence Intern, where I have hands-on experience creating dashboards in Power BI, processing and improving data, and developing automation systems for internal processes.</p>
 
-<img src="https://raw.githubusercontent.com/afgermano/afgermano/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Me chamo Beatriz e atuo como estagiária em Ciências de Dados, atuando na alimentação e na organização de sistemas e bases de dados, auxiliando na elaboração de relatórios e dashboards, extraindo dados interinos e apoiando análises de indicadores.<br><br>Atualmente estou cursando o 2° semestre em Análise e Desenvolvimento de Sistemas e tenho foco na área de dados, especificamente como Ciêntista de Dados.</p>
+<p align="center"> 🇧🇷 </p>
+<p align="left"> Olá! Me chamo Ana Beatriz, mas pode me chamar de Bia. Estou no 3° semestre no curso de Análise e Desenvolvimento de Sistema na FATEC, minhas principais linguagens são Python e SQL, focando minhas energias no desenvolvimento Back-end e Banco de dados, atualmente sou estagiária na área de Inteligência de Dados, onde tenho contato direto com a criação de painéis no Power BI, o tratamento e aprimoramento de dados, além do desenvolvimento de sistemas de automação para processos internos. </p>
 
 ###
 
